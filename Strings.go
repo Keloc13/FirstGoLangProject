@@ -13,7 +13,7 @@ func main(){
 	fmt.Println(strings.Contains(samString, "lo"))
 	fmt.Println(strings.Index(samString, "lo"))
 	fmt.Println(strings.Count(samString, "l"))
-
+	fmt.Println("This is a test for pushing");
 	testString1();
 	createFile();
 }
